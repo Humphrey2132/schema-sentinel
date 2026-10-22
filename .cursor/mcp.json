@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "schema-sentinel": {
+      "command": "C:\\Users\\USER\\.cursor\\schema-sentinel\\venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\USER\\.cursor\\schema-sentinel\\server.py"
+      ]
+    }
+  }
+}
